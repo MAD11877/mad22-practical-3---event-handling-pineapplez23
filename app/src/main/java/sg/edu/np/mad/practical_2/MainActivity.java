@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
         Button MyMessageButton = findViewById(R.id.MessageButton);
         Button MyFollowButton = findViewById(R.id.FollowButton);
         User MyUser = new User();
-        MyUser.setName("MAD practical 2");
-        MyUser.setDescription("App for practical 2");
+        MyUser.setName("MAD practical 3");
+        MyUser.setDescription("App for practical 3");
         MyUser.setFollowed(false);
         TextView MyName = findViewById(R.id.Name);
         TextView MyDescription = findViewById(R.id.Discription);
